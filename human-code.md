@@ -14,6 +14,7 @@
             -attacco subito la figurina
             -depenno il numero dalla lista delle figurine mancanti
         -ALTRIMENTI la sposto nella pila dei doppioni.
+        
 -Incontro gli amici
 -Prendo in mano la pila dei doppioni
 -Scambio la pila dei miei doppioni con quella dei miei amici
